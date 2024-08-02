@@ -1,6 +1,8 @@
 
 # MoodMelody
 
+![image](https://github.com/user-attachments/assets/9d7c22c5-2cce-42ad-a93a-2ba29b31a77d)
+
 This project detects human emotions in real-time using facial expressions and suggests music or content based on the detected mood. The user can even choose to play the recommended music either in the web browser or on a selected Spotify device.
 
 ## Features
