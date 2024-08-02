@@ -78,7 +78,7 @@ This project detects human emotions in real-time using facial expressions and su
     The webcam will detect your emotion and recommend music accordingly. A new song will be played only if a new emotion is detected, with a 5-minute interval to avoid continuous detection.
 
 ## Directory Structure
-
+```
 MoodMelody/
 │
 ├── src/
@@ -100,7 +100,7 @@ MoodMelody/
 ├── .gitignore
 ├── .env
 └── README.md
-
+```
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests.
