@@ -1,0 +1,7 @@
+opencv-python
+dlib
+numpy
+tensorflow
+spotipy
+python-dotenv
+webbrowser
